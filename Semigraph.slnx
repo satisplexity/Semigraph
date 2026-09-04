@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="Semigraph.Presentation/Semigraph.Presentation.csproj" />
+</Solution>
